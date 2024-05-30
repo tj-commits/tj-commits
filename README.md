@@ -7,6 +7,7 @@
 - ⚡ Fun fact: my mom is allergic to green beans
 - NPM profile: https://www.npmjs.com/~87f-
 - gbatemp profile: https://gbatemp.net/members/thefoxjones.707382/
+- stack over flow profile: https://stackoverflow.com/users/15802748/fmuzik-3k
 
 <!---
 tj-commits/tj-commits is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
