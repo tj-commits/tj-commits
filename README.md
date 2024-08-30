@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tj-commits
 - 👀 I’m interested in Wii stuff and other stuff like making npm packages for da world.
 - 🌱 I’m currently learning nothing.
-- 💞️ I’m looking to collaborate on nothing.
+- 💞️ I’m looking to collaborate on [FalseJS](https://github.com/tj-commits/falsejs), my (joke) JavaScript library.
 - 📫 How to reach me why would you want to reach me
 - 😄 Pronouns: he, him, his
 - ⚡ Fun fact: my mom is allergic to green beans
