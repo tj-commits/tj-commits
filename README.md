@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @tj-commits
+- I used to contribute all the time to the VSCode Material Icon Theme, but my old account was deleted so you cant see that any more :(
 - 👀 I’m interested in Wii stuff and other stuff like making npm packages for da world.
 - 🌱 I’m currently learning nothing.
 - 💞️ I’m looking to collaborate on [FalseJS](https://github.com/tj-commits/falsejs), my (joke) JavaScript library.
