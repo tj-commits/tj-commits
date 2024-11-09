@@ -1,3 +1,6 @@
+
+
+
 <!---
 - 👋 Hi, I’m @tj-commits
 - I used to contribute all the time to the VSCode Material Icon Theme, but my old account was deleted so you cant see that any more :(
@@ -42,5 +45,13 @@ watch a 9 min funny video i made, [the suffer movie](https://www.youtube.com/wat
 pls follow me<br><br><br>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tj-commits&show_icons=true&locale=en&layout=compact&theme=dark&bg_color=000000&text_color=ffffff" alt="tj-commits" />
+ 
+  
   ### contributions
+
+  
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=tj-commits&show_icons=true&locale=en&theme=dark&bg_color=000000" alt="tj-commits" />
+
+
+
+ [MY PROFILE](https://gravatar.com/fo6t)
