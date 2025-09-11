@@ -30,13 +30,8 @@ You can click the Preview link to take a look at your changes.
 <br>
 <br>
 <br>
-
-hi, i'm tj-commits. my real name is S Fox, and i <sub><sup>(am a kid and)</sup></sub> own sth called [Rafdo](https://cutt.ly/6egv0tf7). 
-<br>
-<br>
-<br>
 i like doing stuff on the computer&nbsp;&nbsp;<img src="meow.gif" width="150">&nbsp;&nbsp;such as coding&nbsp;&nbsp;<img src="cat-typing.gif">&nbsp;&nbsp;
-i also like making songs with my dad and used to do ytps of bluey on [my youtube channel](https://youtube.com/@321sas)
+i also like making songs on spotify (Fox Jones) and used to do ytps of bluey on [my youtube channel](https://youtube.com/@321sas)
 <br><br><br>
 i make joke npm packages like [immediate-error](https://npmjs.com/immediate-error) and [falsejs](https://npmjs.com/falsejs)
 <br><br><br>
@@ -46,7 +41,7 @@ pls follow me<br><br><br>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tj-commits&show_icons=true&locale=en&layout=compact&theme=dark&bg_color=000000&text_color=ffffff" alt="tj-commits" />
  
-  
+ [FOLLOW THIS ORG RIGHT NOW!](https://github.com/10xEngineersQualityProgramming)
   ### contributions
 
   
