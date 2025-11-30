@@ -21,3 +21,6 @@ You can click the Preview link to take a look at your changes.
 
 <img src="2024-09-27-WELCOM-TO-MY-GITHUB-PROFIL.gif">
 
+im tj-commits, i do stuff
+
+check out some of my npm packages on my org <a href="10xengineersqualityprogramming.github.io">10xEngineersQualityProgramming</a>
