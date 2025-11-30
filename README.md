@@ -20,14 +20,4 @@ You can click the Preview link to take a look at your changes.
 <div align="center">
 
 <img src="2024-09-27-WELCOM-TO-MY-GITHUB-PROFIL.gif">
-67
- 
- [FOLLOW THIS ORG RIGHT NOW!](https://github.com/10xEngineersQualityProgramming)
-  ### contributions
 
-  
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=tj-commits&show_icons=true&locale=en&theme=dark&bg_color=000000" alt="tj-commits" />
-
-
-
- [MY PROFILE](https://gravatar.com/fo6t)
