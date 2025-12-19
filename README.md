@@ -19,6 +19,6 @@ You can click the Preview link to take a look at your changes.
 --->
 <div align="center">
 
-im tj-commits, i do stuff
+im tj-commits, i do stuff, mainly create dumb npm packages, create chess videos on youtube, and other random things
 
-check out some of my npm packages on my org <a href="https://10xengineersqualityprogramming.github.io">10xEngineersQualityProgramming</a>
+check out some of my npm packages on my org <a href="https://github.com/10xEngineersQualityProgramming">10xEngineersQualityProgramming</a>
