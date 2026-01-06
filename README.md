@@ -21,4 +21,4 @@ You can click the Preview link to take a look at your changes.
 
 im tj-commits, i do stuff, mainly create dumb npm packages, create chess videos on youtube, and other random things
 
-check out some of my npm packages on my org <a href="https://github.com/10xEngineersQualityProgramming">10xEngineersQualityProgramming</a>
+Please check out <a href="https://github.com/enterprise-npm-ai/lolite">Lolite</a>, and read some of the source code. Specifically, read the source code for `lolite.identity`, `lolite.isBoolean`, and `lolite.isNumber`. You'll laugh really hard. Please leave a star. I put lots of effort into this kind of useless thing. Btw i'm 11 years old
