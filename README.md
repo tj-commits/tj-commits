@@ -1,4 +1,5 @@
 # readme thing ern
+[PLEASE CHECK OUT LOLITE ON MY 10XLY GITHUB ORG JUST READ ONE OF THE FUNCTIONS' SOURCE CODE UNDER SRC/LIB YOU WILL LAUGH I GUARANTEE IT](https://github.com/10xly/lolite/tree/main/src/lib)
 
 
 <!---
