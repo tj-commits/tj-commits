@@ -1,6 +1,5 @@
 # 👋 hi i'm tj-commits
 **10x Engineer | Chess Editor | Song Writer**
-[PLEASE CHECK OUT LOLITE ON MY 10XLY GITHUB ORG JUST READ ONE OF THE FUNCTIONS' SOURCE CODE UNDER SRC/LIB YOU WILL LAUGH I GUARANTEE IT](https://github.com/10xly/lolite/tree/main/src/lib)
 
 ## 🛠️ What I do
 - **[10x'ly Made](https://github.com/10xly)** - I have 700+ overengineered joke npm packages that use as many dependencies as possible, inspired by OGs like [is-thirteen](https://github.com/jezen/is-thirteen) and [is-ten-thousand](https://github.com/james-work-account/is-then-thousand)
