@@ -23,3 +23,6 @@ You can click the Preview link to take a look at your changes.
 im tj-commits, i do stuff, mainly create dumb npm packages, create chess videos on youtube, songs, other random things
 I used to contribute all the time to the VSCode Material Icon Theme, but my old account was deleted so you cant see that any more :(
 email at thefoxjones@gmail.com
+
+
+i designed the tv and desktop and console icons in [vscode material icon theme](https://github.com/material-extensions/vscode-material-icon-theme), so if you've ever seen those folder icons, i made them!
