@@ -26,3 +26,5 @@ email at thefoxjones@gmail.com
 
 
 i designed the tv and desktop and console icons in [vscode material icon theme](https://github.com/material-extensions/vscode-material-icon-theme), so if you've ever seen those folder icons, i made them!
+
+i do wii hacking stuff a lot oto
