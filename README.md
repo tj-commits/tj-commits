@@ -14,3 +14,4 @@
 
 ## Stats
 <img src="https://github-readme-stats-tj-commits-proj.vercel.app/api?username=tj-commits&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="my gh stats">
+[![GitHub Streak](https://streak-stats.demolab.com?user=tj-commits&theme=vue)](https://git.io/streak-stats)
