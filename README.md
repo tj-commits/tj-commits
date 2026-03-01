@@ -14,3 +14,4 @@
 
 ## Stats
 <img src="https://github-readme-stats-tj-commits-proj.vercel.app/api?username=tj-commits&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="my gh stats"><img src="https://streak-stats.demolab.com?user=tj-commits&theme=vue)" alt="github streak stats">
+<img src="https://github-profile-trophy.vercel.app/?username=tj-commits&theme=onedark" alt="tropthy">
