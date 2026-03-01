@@ -14,3 +14,5 @@
 
 ## Stats
 <img src="https://github-readme-stats-tj-commits-proj.vercel.app/api?username=tj-commits&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="my gh stats"><img src="https://streak-stats.demolab.com?user=tj-commits&theme=vue)" alt="github streak stats">
+Profile views counter:
+<img src="https://counter.websiteout.com/compte.php?S=http%3A%2F%2Ftj-commits6767nonexistenturl.org%3A5500%2Fx.html&amp;C=24&amp;D=0&amp;N=0&amp;M=0&amp;clt=0&amp;ca=" alt="web hit counter" border="0">
