@@ -2,7 +2,7 @@
 **10x Engineer | Chess Editor | Song Writer**
 
 ## 🛠️ What I do
-- **[10x'ly Made](https://github.com/10xly)** - I have 700+ overengineered joke npm packages that use as many dependencies as possible, inspired by OGs like [is-thirteen](https://github.com/jezen/is-thirteen) and [is-ten-thousand](https://github.com/james-work-account/is-ten-thousand). My favorite one is [FalseJS](https://github.com/10xly/falsejs). Read the 10x'ly Made [README](https://github.com/10xly/.github#readme) for more info.
+- **[10x'ly Made](https://github.com/10xly)** - I have 700+ overengineered joke npm packages that use as many dependencies as possible, inspired by OGs like [is-thirteen](https://github.com/jezen/is-thirteen) and [is-ten-thousand](https://github.com/james-work-account/is-ten-thousand). My favorite one is [FalseJS](https://github.com/10xly/falsejs). Read the 10x'ly Made [README](https://github.com/10xly/blob/main/profile#readme) for more info.
 - **[VSCode Material Icon Theme](https://github.com/material-extensions/vscode-material-icon-theme/pull/2218)**: I designed the TV, Desktop, and Console folder icons. So you've probably seen icons I've designed.
 - **Content**: I make chess videos on YouTube and release songs under Fox Jones.
 
