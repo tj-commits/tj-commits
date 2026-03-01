@@ -14,6 +14,10 @@
 
 ## Stats
 <img src="https://github-readme-stats-tj-commits-proj.vercel.app/api?username=tj-commits&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="my gh stats"><img src="https://streak-stats.demolab.com?user=tj-commits&theme=vue)" alt="github streak stats">
-<a href="https://npmjs.com/countingup"><img align="right" src="https://img.shields.io/npm/dm/countingup.svg?style=plastic&logo=npm&label=&color=DA261A" alt="countingup downloads" /></a>
-<a href="https://npmjs.com/true-value"><img align="right" src="https://img.shields.io/npm/dm/true-value.svg?style=plastic&logo=npm&label=&color=DA261A" alt="true-value downloads" /></a>
-<a href="https://npmjs.com/immediate-error"><img align="right" src="https://img.shields.io/npm/dm//immediate-error.svg?style=plastic&logo=npm&label=&color=DA261A" alt="immediate-error downloads" /></a>
+
+
+countingup downloads: <a href="https://npmjs.com/countingup"><img align="right" src="https://img.shields.io/npm/dm/countingup.svg?style=plastic&logo=npm&label=&color=DA261A" alt="countingup downloads" /></a>
+
+true-value downloads: <a href="https://npmjs.com/true-value"><img align="right" src="https://img.shields.io/npm/dm/true-value.svg?style=plastic&logo=npm&label=&color=DA261A" alt="true-value downloads" /></a>
+
+immediate-error downloads<a href="https://npmjs.com/immediate-error"><img align="right" src="https://img.shields.io/npm/dm//immediate-error.svg?style=plastic&logo=npm&label=&color=DA261A" alt="immediate-error downloads" /></a>
