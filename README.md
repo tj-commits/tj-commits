@@ -20,4 +20,4 @@ countingup downloads: <a href="https://npmjs.com/countingup"><img align="right" 
 
 true-value downloads: <a href="https://npmjs.com/true-value"><img align="right" src="https://img.shields.io/npm/dm/true-value.svg?style=plastic&logo=npm&label=&color=DA261A" alt="true-value downloads" /></a>
 
-immediate-error downloads<a href="https://npmjs.com/immediate-error"><img align="right" src="https://img.shields.io/npm/dm/immediate-error.svg?style=plastic&logo=npm&label=&color=DA261A" alt="immediate-error downloads" /></a>
+immediate-error downloads<a href="https://npmjs.com/immediate-error"><img align="right" src="https://img.shields.io/npm/dm/immediate-error.svg?style=plastic&logo=npm&label=immediate-error&color=DA261A" alt="immediate-error downloads" /></a>
