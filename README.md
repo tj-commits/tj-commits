@@ -11,3 +11,6 @@
 - Npm: [tj-commits](https://npmjs.com/~tj-commits)
 - YouTube: [321B Productions](https://youtube.com/@321bproductions)
 - Music: [Fox Jones Music Website](https://foxjonesmusic.github.io)
+
+## Stats
+<img src="https://github-readme-stats-tj-commits-proj.vercel.app/api?username=tj-commits&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="my gh stats">
